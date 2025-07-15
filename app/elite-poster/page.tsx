@@ -27,14 +27,6 @@ export default function ElitePoster() {
     },
     {
       id: 3,
-      title: 'Elite Rajinikanth Portrait',
-      price: { A4: 399, A3: 499, A2: 699 },
-      image: 'https://readdy.ai/api/search-image?query=Elite%20Rajinikanth%20superstar%20portrait%20with%20vintage%20film%20grain%20effect%2C%20classic%20pose%20with%20sunglasses%2C%20premium%20Tamil%20cinema%20artwork&width=400&height=500&seq=elite3&orientation=portrait',
-      description: 'Hand-finished premium print with vintage film grain texture',
-      features: ['Film Grain Effect', 'Hand Finished', 'Vintage Style', 'Collector Quality']
-    },
-    {
-      id: 4,
       title: 'Royal Love Typography',
       price: { A4: 249, A3: 349, A2: 549 },
       image: 'https://readdy.ai/api/search-image?query=Royal%20love%20typography%20poster%20with%20gold%20foil%20effect%2C%20elegant%20script%20lettering%2C%20luxury%20romantic%20design%20for%20premium%20home%20decor&width=400&height=500&seq=elite4&orientation=portrait',
